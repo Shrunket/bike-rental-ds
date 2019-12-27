@@ -1,2 +1,2 @@
 # bike-rental-ds
-The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
+The objective of this project is to predict daily bike rental count based on the environmental and seasonal settings.
